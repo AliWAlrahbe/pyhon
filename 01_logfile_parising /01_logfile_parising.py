@@ -1,5 +1,5 @@
-#By Ali Alrahbe
 #!/usr/bin/env python3
+#By Ali Alrahbe
 import argparse
 import re
 import sys
